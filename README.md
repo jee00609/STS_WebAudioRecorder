@@ -1,5 +1,4 @@
-# STS_WebAudioRecorder
-Record and Download in Browser
+# STS_WebAudioRecorder - Record and Download in Browser
 
 [1.소개](#소개)
 
